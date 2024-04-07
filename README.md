@@ -6,3 +6,4 @@ However, it's worth noting that this model's accuracy may be limited.
 Therefore, I recommend considering alternative versions such as yolov8n.pt, yolov8m.pt, or a custom-trained model.
 For those interested in utilizing the model, specific requirements are necessary.
 These will be detailed in the accompanying requirements file.
+The modified File in this branch has the ability to detect the object position;It is gives an output whether the object is in right or left of the user.
